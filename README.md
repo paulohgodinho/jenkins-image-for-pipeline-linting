@@ -1,7 +1,9 @@
 # jenkins-image-for-pipeline-linting
 Jenkins docker image for usage with Jenkins Pipeline Linter Plugin for Visual Studio Code and IntelliJ IDEs.
 
-## Visual Studio Code Usage
+This image has no setup required, ready to use as soon as it is run, plugins are pre-installed, all security and first type setup wizzard disabled, ready to take queries from the extension or the command line.
+
+## Linting with Visual Studio Code
 Pull the image from Dockerhub using:
 ```
 docker pull paulohgodinho/jenkins-for-pipeline-linting
@@ -28,7 +30,7 @@ Run the linter by pressing *CTRL+SHIFT+P* and searchign for *Validate Jenkinsfil
 
 ![img](./readme-assets/run-pallete.png)
 
-## Validating manualy
+## Linting via Command Line
 You can use Bash and Powershell to manually verify your Pipeline
 Bash:
 ```
