@@ -36,7 +36,6 @@ You can use Bash and Powershell to manually verify your Pipeline
 **Bash:**
 ```
 curl -F "jenkinsfile=< mypipeline.jenkinsfile" http://localhost:8080/ipeline-model-converter/validate
-
 ```
 **Powershell:**
 ```
