@@ -1,5 +1,5 @@
 # jenkins-image-for-pipeline-linting
-Jenkins docker image for usage with Jenkins Pipeline Linter Plugin for Visual Studio Code and IntelliJ IDEs.
+Jenkins docker image for usage with **Jenkins Pipeline Linter Plugin** for Visual Studio Code and IntelliJ IDEs.Can also be used **via command line**
 
 This image has no setup required, ready to use as soon as it is run, plugins are pre-installed, all security and first type setup wizzard disabled, ready to take queries from the extension or the command line.
 
