@@ -79,3 +79,13 @@ matrix-auth
 okhttp-api
 pipeline-model-extensions
 configuration-as-code
+git-parameter
+parameter-separator
+file-parameters
+extensible-choice-parameter
+editable-choice
+image-tag-parameter
+custom-checkbox-parameter
+validating-email-parameter
+agent-server-parameter
+uno-choice
