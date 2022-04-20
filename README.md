@@ -28,7 +28,7 @@ Run the linter by pressing *CTRL+SHIFT+P* and searchign for *Validate Jenkinsfil
 
 ![img](./readme-assets/run-pallete.png)
 
-## Validanting manualy
+## Validating manualy
 You can use Bash and Powershell to manually verify your Pipeline
 Bash:
 ```
