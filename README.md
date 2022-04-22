@@ -26,7 +26,7 @@ Input the running Jenkins container URL with port, and the path `/pipeline-model
 
 ![img](./readme-assets/url-setup.png)
 
-Run the linter by pressing *CTRL+SHIFT+P* and searchign for *Validate Jenkinsfile*
+Run the linter by pressing *CTRL+SHIFT+P* and searching for *Validate Jenkinsfile*
 
 ![img](./readme-assets/run-pallete.png)
 
