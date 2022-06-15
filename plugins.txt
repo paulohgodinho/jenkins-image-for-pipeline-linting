@@ -89,3 +89,4 @@ custom-checkbox-parameter
 validating-email-parameter
 agent-server-parameter
 uno-choice
+list-git-branches-parameter
